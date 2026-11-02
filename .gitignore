@@ -1,0 +1,22 @@
+# CAPTAR KLEBER: never commit local/customer data
+*.xlsx
+*.xls
+*.csv
+*.ini
+*.log
+*.txt
+*.db
+*.mdb
+*.bak
+*.zip
+*.exe
+*.ahk
+*.ps1
+.env
+.env.*
+Backup/
+Atualizacoes/
+Relatorio/
+Logo/
+Calibracao/
+UIA-v2-main/
