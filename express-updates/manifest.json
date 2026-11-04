@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "components": {
+    "launcher": {
+      "version": "1.5.0",
+      "download_url": "https://raw.githubusercontent.com/klebeerkleein/Auto-CaptarLO/main/express-updates/launcher-v1.5.0.zip",
+      "sha256": "d18f717982457503239bfa1eb6977ad43819a2ca399ddaab7b2d8b38ca6d9635"
+    }
+  }
+}
