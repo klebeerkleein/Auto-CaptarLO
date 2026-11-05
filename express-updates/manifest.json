@@ -1,11 +1,16 @@
 {
   "schema_version": 1,
-  "channel": "stable",
+  "channel": "pilot-python-not-production",
   "components": {
     "launcher": {
-      "version": "1.5.0",
-      "download_url": "https://raw.githubusercontent.com/klebeerkleein/Auto-CaptarLO/main/express-updates/launcher-v1.5.0.zip",
-      "sha256": "d18f717982457503239bfa1eb6977ad43819a2ca399ddaab7b2d8b38ca6d9635"
+      "version": "1.5.1",
+      "download_url": "https://raw.githubusercontent.com/klebeerkleein/Auto-CaptarLO/piloto-python-20261105/express-updates/launcher-piloto-python-20261105.zip",
+      "sha256": "48503356dad032066ccefb65410444c695b077e3b8654d9c7204b5b96a2cf08f"
+    },
+    "captar_express": {
+      "version": "1.4.24",
+      "download_url": "https://raw.githubusercontent.com/klebeerkleein/Auto-CaptarLO/piloto-python-20261105/express-updates/captar_express-piloto-python-20261105.zip",
+      "sha256": "81844525414804a4b99080c576588e6a2b05b9addd819980dd56d3a45db38880"
     }
   }
 }
